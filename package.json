@@ -1,0 +1,19 @@
+{
+  "name": "news-reader-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint *.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "feedparser": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^0.17.1"
+  }
+}
